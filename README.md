@@ -223,4 +223,4 @@ MPEG-2 Video Decoder is provided as a complete free version with all features an
 Unlock the full potential of your MPEG-2 video files today! Download the MPEG-2 Video Decoder for free and start enjoying seamless playback on your Windows device.
 
 ---
-**Last updated:** 2026-09-17 16:08:56 UTC
+**Last updated:** 2026-09-17 19:58:53 UTC
